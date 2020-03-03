@@ -33,3 +33,5 @@ end
 def retrieve_last_element_from_array(array)
   return array.last
 end
+
+puts create_an_array.size
